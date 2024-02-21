@@ -1,6 +1,6 @@
 # AuctionWebApp
 
-Set up steps:
+Set up steps:/n
 1.Install sql server.
 2.Create a new sql server database.
 3.Upate default connection string in appsettings.json.

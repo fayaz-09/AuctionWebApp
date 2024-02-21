@@ -10,4 +10,4 @@ Set up steps:
 
 4.In package manager console use Add-Migration "name e.g intial migration"
 
-5.Use Update-Databse command in package manager console.
+5.Use Update-Database command in package manager console.

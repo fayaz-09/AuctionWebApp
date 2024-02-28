@@ -6,7 +6,7 @@ Set up steps:
 
 2.Create a new sql server database.
 
-3.Upate default connection string in appsettings.json.
+3.Update default connection string in appsettings.json.
 
 4.In package manager console use Add-Migration "name e.g intial migration"
 
